@@ -21,8 +21,27 @@ Model dilatih untuk mengenali **5 jenis vokal**:
 - Evaluasi model (akurasi, classification report)
 - Real-time prediksi vokal dari rekaman pengguna
 
-├───Mbee
-├───Meow
-├───Moo
-├───Tweet
-└───Woof
+├───Mbee <br>
+├───Meow <br>
+├───Moo <br>
+├───Tweet <br>
+└───Woof <br>
+
+### 📌 Catatan Dataset
+- Setiap folder vokal menyimpan **15 file `.wav`** hasil rekaman
+- **10 file** untuk data training
+- **5 file** untuk data testing
+
+---
+
+## ⚙️ Instalasi
+Jalankan perintah berikut:
+```bash
+git clone https://github.com/alfin333/Speech-Classification-Vocals-CNN.git
+cd Speech-Classification-Vocals-CNN
+python -m venv venv
+# Aktifkan virtual environment
+source venv/bin/activate       # Untuk Linux/macOS
+venv\Scripts\activate          # Untuk Windows
+pip install -r requirements.txt
+
