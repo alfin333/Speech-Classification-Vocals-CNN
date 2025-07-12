@@ -46,7 +46,7 @@ data/ <br>
 ---
 
 ## ⚙️ Instalasi
-**Jalankan perintah berikut:**
+# Jalankan perintah berikut <br>
 **1. Clone repository ini**
 ```
 git clone https://github.com/alfin333/Speech-Classification-Vocals-CNN.git
