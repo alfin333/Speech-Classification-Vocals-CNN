@@ -47,12 +47,16 @@ data/ <br>
 
 ## ⚙️ Instalasi
 Jalankan perintah berikut:
-```bash
-git clone https://github.com/alfin333/Speech-Classification-Vocals-CNN.git
-cd Speech-Classification-Vocals-CNN
-python -m venv venv
+```
+git clone https://github.com/alfin333/Speech-Classification-Vocals-CNN.git```
+```
+cd Speech-Classification-Vocals-CNN ```
+```
+python -m venv venv```
+```
 # Aktifkan virtual environment
 source venv/bin/activate       # Untuk Linux/macOS
-venv\Scripts\activate          # Untuk Windows
-pip install -r requirements.txt
+venv\Scripts\activate          # Untuk Windows ```
+```
+pip install -r requirements.txt ```
 
