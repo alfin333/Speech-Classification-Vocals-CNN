@@ -24,4 +24,4 @@ Model dilatih untuk mengenali **5 jenis vokal**:
 ---
 
 ## 📁 Struktur Dataset
-<pre> ``` data/ ├── Moo/ │ ├── Moo_0.wav │ ├── Moo_1.wav │ └── ... ├── Meow/ ├── Woof/ ├── Mbee/ └── Tweet/ ``` </pre>
+<pre lang="markdown"> <details> <summary><b>📁 Dataset Structure</b></summary> ``` data/ ├── Moo/ │ ├── Moo_0.wav │ ├── Moo_1.wav │ └── ... ├── Meow/ ├── Woof/ ├── Mbee/ └── Tweet/ ``` </details> </pre>
