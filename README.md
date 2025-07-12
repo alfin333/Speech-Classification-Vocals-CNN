@@ -52,7 +52,7 @@ Jalankan perintah berikut:
 git clone https://github.com/alfin333/Speech-Classification-Vocals-CNN.git
 ```
 ```
-# pindah ke directory
+**# pindah ke directory**
 cd Speech-Classification-Vocals-CNN
 ```
 ```
