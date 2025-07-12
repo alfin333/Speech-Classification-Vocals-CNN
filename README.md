@@ -21,9 +21,6 @@ Model dilatih untuk mengenali **5 jenis vokal**:
 - Evaluasi model (akurasi, classification report)
 - Real-time prediksi vokal dari rekaman pengguna
 
----
-
-## 📁 Struktur Dataset
 ├───Mbee
 ├───Meow
 ├───Moo
