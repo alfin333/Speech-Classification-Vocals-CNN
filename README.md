@@ -1,4 +1,3 @@
-# Speech-Classification-Vocals-CNN
 # 🎤 Speech Classification of Vowel Sounds using CNN
 
 ## 📌 Deskripsi
