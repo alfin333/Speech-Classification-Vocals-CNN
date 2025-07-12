@@ -64,7 +64,7 @@ python -m venv venv
 source venv/bin/activate       # Untuk Linux/macOS
 venv\Scripts\activate          # Untuk Windows ```
 ```
-# Install Library yang diperlukan
+**5. Install Library yang diperlukan**
 ```
 pip install -r requirements.txt 
 ```
