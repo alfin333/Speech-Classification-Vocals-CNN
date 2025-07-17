@@ -27,7 +27,7 @@ Setiap folder vokal menyimpan 15 file `.wav` hasil rekaman:
 - 10 file untuk data training  
 - 5 file untuk data testing  
 Strukturnya seperti berikut:
-
+```
 data/ <br>
 ├── Moo/ <br>
 │   ├── Moo_0.wav <br>
@@ -37,7 +37,7 @@ data/ <br>
 ├── Woof/ <br>
 ├── Mbee/ <br>
 └── Tweet/ <br>
-
+```
 ### 📌 Catatan Dataset
 - Setiap folder vokal menyimpan **15 file `.wav`** hasil rekaman
 - **10 file** untuk data training
